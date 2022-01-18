@@ -1,0 +1,16 @@
+.origami{
+    border-radius: 20px;
+    background-color: rgb(245, 158, 142);
+    padding:30px;
+    margin: 25px;
+    width:310px;
+    font-family: cursive;
+}
+
+.body{
+    margin:0px;
+}
+
+.header{
+    color: tomato;
+}
